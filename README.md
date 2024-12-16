@@ -1,4 +1,4 @@
-## HE! 👋
+## Hi! 👋
 
 I'm a passionate **Backend Developer** specializing in **Java** and **Spring Boot**. I enjoy building robust and scalable solutions for the backend. 💻
 
